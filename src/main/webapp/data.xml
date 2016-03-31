@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student id="180">
+       <name>ton</name>
+        <age>23</age>
+        <score>78</score>
+        <message><![CDATA[<h2>nihao</h2>]]></message>
+    </student>
+    <student id="190">
+        <name>tom</name>
+        <age>33</age>
+        <score>98</score>
+    </student>
+    <student id="170">
+        <name>tow</name>
+        <age>13</age>
+        <score>68</score>
+    </student>
+</students>

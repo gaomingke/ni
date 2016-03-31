@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+       <books>
+    <book ISBN号="5197-5742-5657">
+        <name>java编程思想</name>
+         <price>91.5元</price>
+      <authors>
+          <author>
+              <name>汤姆斯</name>
+              <nation>美国</nation>
+          </author>
+          <author>
+              <name>杰西姆</name>
+              <nation>美国</nation>
+          </author>
+      </authors>
+        <gift>
+            <item>张学友演唱票</item>
+        </gift>
+    </book>
+    <book ISBN号="6575-3486-6586">
+        <name>深入浅出ajax</name>
+        <price>88.0元</price>
+        <authors>
+           <author>
+               <name>刘美好</name>
+           </author>
+        </authors>
+        <gifts>
+            <gift>
+                <item>主题t-shrit</item>
+                <item>水杯</item>
+                <item>郭富城演唱会门票</item>
+            </gift>
+        </gifts>
+    </book>
+</books>
